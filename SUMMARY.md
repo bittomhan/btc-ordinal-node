@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Bitcoin Ordinal 节点搭建](README.md)
